@@ -1,0 +1,17 @@
+C:\Users\shanes\source\repos\Selenium\Selenium\bin\Debug\netcoreapp3.0\Selenium.exe
+C:\Users\shanes\source\repos\Selenium\Selenium\bin\Debug\netcoreapp3.0\Selenium.deps.json
+C:\Users\shanes\source\repos\Selenium\Selenium\bin\Debug\netcoreapp3.0\Selenium.runtimeconfig.json
+C:\Users\shanes\source\repos\Selenium\Selenium\bin\Debug\netcoreapp3.0\Selenium.runtimeconfig.dev.json
+C:\Users\shanes\source\repos\Selenium\Selenium\bin\Debug\netcoreapp3.0\Selenium.dll
+C:\Users\shanes\source\repos\Selenium\Selenium\bin\Debug\netcoreapp3.0\Selenium.pdb
+C:\Users\shanes\source\repos\Selenium\Selenium\bin\Debug\netcoreapp3.0\SeleniumExtras.PageObjects.dll
+C:\Users\shanes\source\repos\Selenium\Selenium\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\shanes\source\repos\Selenium\Selenium\bin\Debug\netcoreapp3.0\nunit.framework.dll
+C:\Users\shanes\source\repos\Selenium\Selenium\bin\Debug\netcoreapp3.0\WebDriver.Support.dll
+C:\Users\shanes\source\repos\Selenium\Selenium\bin\Debug\netcoreapp3.0\WebDriver.dll
+C:\Users\shanes\source\repos\Selenium\Selenium\obj\Debug\netcoreapp3.0\Selenium.csprojAssemblyReference.cache
+C:\Users\shanes\source\repos\Selenium\Selenium\obj\Debug\netcoreapp3.0\Selenium.AssemblyInfoInputs.cache
+C:\Users\shanes\source\repos\Selenium\Selenium\obj\Debug\netcoreapp3.0\Selenium.AssemblyInfo.cs
+C:\Users\shanes\source\repos\Selenium\Selenium\obj\Debug\netcoreapp3.0\Selenium.csproj.CopyComplete
+C:\Users\shanes\source\repos\Selenium\Selenium\obj\Debug\netcoreapp3.0\Selenium.dll
+C:\Users\shanes\source\repos\Selenium\Selenium\obj\Debug\netcoreapp3.0\Selenium.pdb

@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <NoWarn>1701;1702;CS0618</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetSeleniumExtras.PageObjects" Version="3.11.0" />
+    <PackageReference Include="DotNetSeleniumExtras.PageObjects.Core" Version="3.12.0" />
+    <PackageReference Include="NUnit" Version="3.11.0" />
+    <PackageReference Include="Selenium.Support" Version="3.141.0" />
+  </ItemGroup>
+
+</Project>
